@@ -37,5 +37,9 @@ dependencies {
 ```
 
 > Customize the UI as per your requirements in the xml file.
+
+> Get a well made widget for you
+
+![Error](https://user-images.githubusercontent.com/37095473/172666004-522523a4-71b4-4f12-b1c0-b0e2606306d0.png)
   
   

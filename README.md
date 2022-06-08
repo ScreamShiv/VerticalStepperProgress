@@ -29,6 +29,11 @@ dependencies {
    stepperProgress.setStepSize(30);
    stepperProgress.setTickImageSize(24);
    stepperProgress.createStepper(steps,list,sublist,completed);
+   
+   // steps --> total steps required
+   // list --> arraylist of string containing the steps title
+   // sublist --> arraylist of string containing the steps subtitle
+   // completed --> total steps completed
 ```
 
 > Customize the UI as per your requirements in the xml file.

@@ -1,0 +1,16 @@
+[{
+      title : "This is title",
+      thumb : "https://via.placeholder.com/150",
+      view: 12,
+      duration:"1:22",
+      createDate: "12/12/2020",
+      videoUrl: "https://file-examples.com/storage/fe64bbb60e62cc956a036bf/2017/04/file_example_MP4_480_1_5MG.mp4"
+},
+{
+      title : "This is title",
+      thumb : "https://via.placeholder.com/150",
+      view: 12,
+      duration:"1:22",
+      createDate: "12/12/2020",
+      videoUrl: "https://file-examples.com/storage/fe64bbb60e62cc956a036bf/2017/04/file_example_MP4_480_1_5MG.mp4"
+}]
